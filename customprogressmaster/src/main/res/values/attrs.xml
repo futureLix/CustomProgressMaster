@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--自定义进度条-->
+    <declare-styleable name="CustomProgress">　　
+        <attr name="mBackGround" format="color"/>　
+        <attr name="mForeGround" format="color"/>　　
+        <attr name="mTextColor" format="color"/>
+        <attr name="max" format="integer"/>
+        <attr name="progress" format="integer"/>
+        <attr name="mTextSize" format="dimension"/>
+        <attr name="mText" format="string"/>
+        <attr name="mStyle" format="integer"/>
+        <attr name="mTime" format="integer"/>
+        <attr name="mRoundWidth" format="float"/>
+        <attr name="mTextRoundWidth" format="float"/>
+        <attr name="mTextWidth" format="float"/>
+        <attr name="mTextIsDisplayable" format="boolean"/>
+        <attr name="mStartProgress" format="boolean"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="progress_bg1">#D0021B</color>
+    <color name="progress_bg2">#66D0021B</color>
+    <color name="progress_bg3">#D0011B</color>
+
+    <color name="progress_bg4">#0A64E1</color>
+    <color name="progress_bg5">#660A64E1</color>
+
+    <color name="progress_bg6">#57b663</color>
+    <color name="progress_bg7">#6657b663</color>
+</resources>
