@@ -4,7 +4,7 @@ Simple custom progress bar.
 
 ### example
 
-<img src="pic/ezgif.com-video-to-gif.gif" > </img>
+<img src="pic/ezgif.com-video-to-gif.gif" width="400"> </img>
 
 ### CustomProgressMaster sample
 
