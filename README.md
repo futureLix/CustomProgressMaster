@@ -2,11 +2,10 @@
 Simple custom progress bar.
 
 
-### example
+### CustomProgressMaster sample
 
 <img src="pic/ezgif.com-video-to-gif.gif" width="400"> </img>
 
-### CustomProgressMaster sample
 
 <img src="pic/device-2018-12-02-171734.png" width="400"></img>
 
