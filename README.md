@@ -2,13 +2,13 @@
 Simple custom progress bar.
 
 
-### Play Movies
+### example
 
-<img src="pic/ezgif.com-video-to-gif.gif"> </img>
+<img src="pic/ezgif.com-video-to-gif.gif" > </img>
 
 ### CustomProgressMaster sample
 
-<img src="pic/device-2018-12-02-171734.png"></img>
+<img src="pic/device-2018-12-02-171734.png" width="400"></img>
 
 
 ## Build
